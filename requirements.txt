@@ -1,0 +1,6 @@
+ultralytics
+opencv-python-headless
+filterpy
+numpy
+pandas
+matplotlib
